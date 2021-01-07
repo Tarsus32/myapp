@@ -45,7 +45,7 @@
           </div>
         </b-col>
         <b-col class="contactForm" md="4" sm="6" offset-md="2">
-          <form action="https://formspree.io/f/xaylaepo" method="POST">
+          <form action="https://formspree.io/f/mwkwalrg" method="POST">
             <h2>Poslať správu</h2>
             <div class="inuptBox">
               <input type="text" name="name" required="required" />
