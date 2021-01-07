@@ -12,5 +12,7 @@ module.exports = {
 },
 
 module.exports = {
-  publicPath: '/myapp'
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/myapp/'
+    : '/'
 }
